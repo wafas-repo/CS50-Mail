@@ -1,12 +1,4 @@
 asgiref==3.5.2
-astroid==2.4.2
-backports.zoneinfo==0.2.1
-certifi==2020.6.20
-cffi==1.14.3
-charset-normalizer==2.1.1
-click==7.1.2
-client==0.0.1
-cryptography==3.1.1
 dj-database-url==1.0.0
 Django==4.1.4
 django-heroku==0.3.1
@@ -22,7 +14,6 @@ Markdown==3.2.2
 markdown2==2.3.9
 MarkupSafe==1.1.1
 mccabe==0.6.1
-mysql==0.0.2
 mysql-connector-python==8.0.21
 mysqlclient==2.0.1
 Pillow==7.2.0
