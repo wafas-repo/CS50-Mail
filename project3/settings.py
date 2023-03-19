@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-CSRF_TRUSTED_ORIGINS = ['mailappcom-production.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://mailappcom-production.up.railway.app']
 
 ROOT_URLCONF = 'project3.urls'
 
