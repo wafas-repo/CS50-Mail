@@ -26,6 +26,7 @@ SECRET_KEY = '*'
 DEBUG = (os.environ.get('DEBUG_VALUE') == 'True')
 
 ALLOWED_HOSTS = ['*']
+CSRF_TRUSTED_ORIGINS = ['mailappcom-production.up.railway.app']
 
 
 # Application definition
