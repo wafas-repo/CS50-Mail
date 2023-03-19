@@ -26,7 +26,7 @@ SECRET_KEY = '*'
 DEBUG = (os.environ.get('DEBUG_VALUE') == 'True')
 
 ALLOWED_HOSTS = ['*']
-CSRF_TRUSTED_ORIGINS = ['mailappcom-production.up.railway.app']
+
 
 
 # Application definition
@@ -50,6 +50,8 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
+
+CSRF_TRUSTED_ORIGINS = ['mailappcom-production.up.railway.app']
 
 ROOT_URLCONF = 'project3.urls'
 
