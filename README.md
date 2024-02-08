@@ -1,7 +1,5 @@
 # Mail
 
-### [Live Demo](https://mailapp.up.railway.app/login)
-
 
 ![Screen Shot 2022-12-12 at 6 46 20 PM](https://user-images.githubusercontent.com/67938718/207184375-4be748bc-2587-4271-b472-641ea2a2d8d8.png)
 
